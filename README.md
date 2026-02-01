@@ -35,5 +35,5 @@ Jikan API — API no oficial de MyAnimeList para obtener datos de anime y manga.
 
 Repositorio: GitHub
 Proyecto para práctica, no para producción. No esperes milagros.
-![1750620403435](https://github.com/user-attachments/assets/4d4be85a-4087-4904-ade5-1d420bfc956d)
 ![1750620379303](https://github.com/user-attachments/assets/f15133de-7ed3-4bb0-9a1c-221affde7d91)
+![1750620403435](https://github.com/user-attachments/assets/4d4be85a-4087-4904-ade5-1d420bfc956d)
